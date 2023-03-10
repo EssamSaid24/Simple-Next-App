@@ -34,4 +34,4 @@ Fetching Data
 The data is fetched from a website using the fetch API. The data is fetched in the getStaticProps function in the pages/index.js file, and the details of a single item are fetched in the getStaticProps function in the [id].js file.
 
 Conclusion
-This is a simple Next.js application that fetches data from a website and displays it on a web page. The application also includes a Bootstrap header and footer. Feel free to modify this project and use it as a starting point for your own projects.
+This is a simple Next.js application that fetches data from a website and displays it on a web page. The application also includes a Bootstrap header and footer.
